@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+<img src="https://talktogproject.github.io/wordsurvey/TT-UP-TPF.png" style="display: block; margin: auto;">
 
-You can use the [editor on GitHub](https://github.com/talktogproject/wordsurveyph/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# YOU ARE INVITED TO PARTICIPATE IN TALKTOGETHER
+## Word Survey
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TalkTogether is a research project conducted by experts from the University of Oxford and University of the Philippines. It aims to understand how children develop their language skills, including Filipino, English, and the mother tongues. 
 
-### Markdown
+We are looking for parents, teachers, or local language experts to participate in an online Filipino language survey. We will set up one practice session and around four survey sessions at times that are convenient for you. Each session would take about 30 to 45 minutes of your time. We will give you sets of words in Filipino. For each word you will tell us when you think they are first understood by children. We will also ask you to tell us how easy or difficult it is to visualise or make a picture of the word in our mind. Sometimes, if we are unable to finish, we will set up further sessions with you. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **How to join**
 
-```markdown
-Syntax highlighted code block
+### 1. Read the [Participant Information Sheet](pis-actual.md)
+### 2. Download, fill up, and e-mail the [consent form](https://github.com/talktogproject/wordsurvey/raw/gh-pages/ConsentForm_WordSurvey.doc) to our team
+### 3. We will get in touch to schedule your survey session
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/talktogproject/wordsurveyph/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or would like more information please contact Prof. Yayi Fua at mefua2@up.edu.ph. Participation is voluntary. 
+ 
