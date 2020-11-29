@@ -47,7 +47,7 @@ You might get a little tired from answering the survey. We will make sure that y
 
 **What next?** 
 
-If you agree to participate, we will ask you to email to us a complete and signed [consent form](https://github.com/talktogproject/wordsurveyph/raw/gh-pages/ConsentForm.doc). You may contact the following for any questions or concerns about the study:
+If you agree to participate, we will ask you to email to us a complete and signed [consent form](https://github.com/talktogproject/wordsurveyph/raw/gh-pages/ConsentForm_WordSurvey.doc). You may contact the following for any questions or concerns about the study:
 
 * Study Lead: Prof. Yayi Fua (mefua2@up.edu.ph)
 * Philippines Co-Investigator: Prof. Dina Ocampo (dina.ocampo@up.edu.ph)
